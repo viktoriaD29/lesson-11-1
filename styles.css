@@ -1,0 +1,11 @@
+.none {
+  display: none;
+}
+
+.hiddnen {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
